@@ -1,2 +1,2 @@
 # Theme
-Themes for Orchard.
+Themes for Orchard CMS.
